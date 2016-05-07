@@ -59,8 +59,8 @@ class ViewController: UIViewController, MKMapViewDelegate, CLLocationManagerDele
         
         let pin = MKPointAnnotation()
         pin.coordinate = tappedPoint
-        pin.title = "タイトル"
-        pin.subtitle = "サブタイトル"
+        pin.title = "向かいたい場所"
+        pin.subtitle = "ここに行きたい！"
         self.myMapView.addAnnotation(pin)
     }
     
