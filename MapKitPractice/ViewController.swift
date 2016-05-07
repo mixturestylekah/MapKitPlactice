@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  MapKitPractice
 //
-//  Created by kentaro on 2016/05/07.
+//  Created by kentaro on 2016/05/07.青木健太郎
 //  Copyright © 2016年 kentaro aoki. All rights reserved.
 //
 
